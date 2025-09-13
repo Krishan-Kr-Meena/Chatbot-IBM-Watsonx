@@ -25,4 +25,9 @@ It is designed to assist users with **health-related queries**, including sympto
 1. **User Input** → Chat interface (Frontend)  
 2. **Watson Assistant** → Natural Language Processing (Intent & Entity Recognition)  
 3. **Backend Integration** → Appointment management + Symptom mapping  
-4. **Response** → Personalized guidance & actionable suggestions  
+4. **Response** → Personalized guidance & actionable suggestions
+
+---
+
+## 🔗 Live Preview
+**HealthMate ChatBot**: [ChatBot](https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fus-south.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-e1dc8e7b-b024-4ea7-9ee8-8b4f6b0be294%3A%3Ac77d9b41-f8cb-4188-acb5-18b78cf7e641&integrationID=37bcaa9f-4ef9-4d46-b3cd-d20a45e03df0&region=us-south&serviceInstanceID=e1dc8e7b-b024-4ea7-9ee8-8b4f6b0be294)
